@@ -1,0 +1,14 @@
+# 虚拟环境
+.venv/
+
+# PyCharm 配置
+.idea/
+
+# 日志和数据库
+app.log
+data.db
+output/
+
+# Python 缓存
+__pycache__/
+*.pyc
